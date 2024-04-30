@@ -31,7 +31,7 @@
                 <label for="">Salario</label>
                 <input type="text" class="form-control" name="salario">
             </div>
-            <a href="{{route('productos.ver')}}" class="btn btn-warning">Volver</a>
+            <a href="{{route('empleado.ver')}}" class="btn btn-warning">Volver</a>
             <button type="submit" class="btn btn-primary">Crear</button>
         </form>
 
